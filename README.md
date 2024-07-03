@@ -4,7 +4,7 @@ Time <br />
 Ingredient <br />
 Dietary Restriction <br />
 
-The following are examples of sample input and output for our program: <br />
+The following is an example of sample input and output for the language: <br />
 input: potato onion bacon spinach peas 30 <br />
 output: You should make "Potato Gratin with Chicken" <br />
 Here is a recipe: https://www.themealdb.com/meal/52780-Potato-Gratin-with-Chicken <br />
